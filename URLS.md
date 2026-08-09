@@ -4,6 +4,8 @@ Live site: https://codingcostlab.com/
 
 Sitemap: https://codingcostlab.com/sitemap.xml
 
+Calculator index: https://codingcostlab.com/calculators
+
 ## Pages
 
 1. https://codingcostlab.com/
@@ -52,3 +54,21 @@ Sitemap: https://codingcostlab.com/sitemap.xml
 44. https://codingcostlab.com/ai-test-generation-roi
 45. https://codingcostlab.com/large-codebase-ai-cost
 46. https://codingcostlab.com/startup-ai-engineering-budget
+47. https://codingcostlab.com/claude-code-cost-for-startups
+48. https://codingcostlab.com/cursor-vs-copilot-cost
+49. https://codingcostlab.com/cursor-vs-claude-code-cost
+50. https://codingcostlab.com/codex-vs-copilot-cost
+51. https://codingcostlab.com/ai-code-review-cost-for-teams
+52. https://codingcostlab.com/ai-test-generation-cost-for-teams
+53. https://codingcostlab.com/ai-code-generation-cost-for-startups
+54. https://codingcostlab.com/ai-coding-agent-pricing-comparison
+55. https://codingcostlab.com/ai-coding-cost-estimator
+56. https://codingcostlab.com/ai-token-cost-for-codebases
+57. https://codingcostlab.com/prompt-cache-savings-for-code
+58. https://codingcostlab.com/api-coding-agent-cost-calculator
+59. https://codingcostlab.com/local-vs-cloud-ai-coding-cost
+60. https://codingcostlab.com/ai-coding-cost-per-developer
+61. https://codingcostlab.com/ai-coding-cost-per-feature
+62. https://codingcostlab.com/ai-coding-cost-per-bugfix
+63. https://codingcostlab.com/ai-coding-cost-per-pull-request
+64. https://codingcostlab.com/ai-refactoring-cost-for-large-codebases
