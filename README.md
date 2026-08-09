@@ -4,6 +4,10 @@ Free calculators for estimating AI coding agent costs before long coding session
 
 https://codingcostlab.com/
 
+Full index:
+
+https://codingcostlab.com/calculators
+
 ## Why
 
 AI coding agents can run through large repository context, repeated turns, cached prompts, review loops, test generation, refactors, and retries. A normal token calculator does not make those workflow costs easy to reason about.
@@ -18,6 +22,7 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 - high-token refactor and review loops
 - team-level AI coding budgets
 - ROI from saved engineering time
+- unit cost estimates per developer, feature, bug fix, and pull request
 
 ## Calculators
 
@@ -66,6 +71,24 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 - AI Agent Token Burn Rate: https://codingcostlab.com/ai-agent-token-burn-rate
 - Copilot Agent Mode Cost: https://codingcostlab.com/copilot-agent-mode-cost
 - Cursor AI Agent Cost: https://codingcostlab.com/cursor-ai-agent-cost
+
+### Strategy and Unit Cost Pages
+
+- Claude Code Cost for Startups: https://codingcostlab.com/claude-code-cost-for-startups
+- Cursor vs Copilot Cost: https://codingcostlab.com/cursor-vs-copilot-cost
+- Cursor vs Claude Code Cost: https://codingcostlab.com/cursor-vs-claude-code-cost
+- Codex vs Copilot Cost: https://codingcostlab.com/codex-vs-copilot-cost
+- AI Code Review Cost for Teams: https://codingcostlab.com/ai-code-review-cost-for-teams
+- AI Test Generation Cost for Teams: https://codingcostlab.com/ai-test-generation-cost-for-teams
+- AI Coding Cost per Developer: https://codingcostlab.com/ai-coding-cost-per-developer
+- AI Coding Cost per Feature: https://codingcostlab.com/ai-coding-cost-per-feature
+- AI Coding Cost per Bug Fix: https://codingcostlab.com/ai-coding-cost-per-bugfix
+- AI Coding Cost per Pull Request: https://codingcostlab.com/ai-coding-cost-per-pull-request
+- AI Token Cost for Codebases: https://codingcostlab.com/ai-token-cost-for-codebases
+- Prompt Cache Savings for Code: https://codingcostlab.com/prompt-cache-savings-for-code
+- API Coding Agent Cost Calculator: https://codingcostlab.com/api-coding-agent-cost-calculator
+- Local vs Cloud AI Coding Cost: https://codingcostlab.com/local-vs-cloud-ai-coding-cost
+- AI Refactoring Cost for Large Codebases: https://codingcostlab.com/ai-refactoring-cost-for-large-codebases
 
 ## Notes
 
