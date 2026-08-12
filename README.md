@@ -35,6 +35,7 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 - Cursor Cost Calculator: https://codingcostlab.com/cursor-cost-calculator
 - GitHub Copilot Credits Calculator: https://codingcostlab.com/github-copilot-credits-calculator
 - AI Coding Tools Pricing Guide: https://codingcostlab.com/ai-coding-tools-pricing
+- AI Coding Agent Tool Comparison: https://codingcostlab.com/ai-coding-agent-tool-comparison
 
 ### Monthly Budgets
 
@@ -88,6 +89,7 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 - AI Coding Cost per Feature: https://codingcostlab.com/ai-coding-cost-per-feature
 - AI Coding Cost per Bug Fix: https://codingcostlab.com/ai-coding-cost-per-bugfix
 - AI Coding Cost per Pull Request: https://codingcostlab.com/ai-coding-cost-per-pull-request
+- AI Coding Agent Tool Comparison: https://codingcostlab.com/ai-coding-agent-tool-comparison
 - AI Token Cost for Codebases: https://codingcostlab.com/ai-token-cost-for-codebases
 - Prompt Cache Savings for Code: https://codingcostlab.com/prompt-cache-savings-for-code
 - API Coding Agent Cost Calculator: https://codingcostlab.com/api-coding-agent-cost-calculator
