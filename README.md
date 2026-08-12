@@ -77,6 +77,7 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 - Claude Code Cost for Startups: https://codingcostlab.com/claude-code-cost-for-startups
 - Cursor vs Copilot Cost: https://codingcostlab.com/cursor-vs-copilot-cost
 - Cursor vs Claude Code Cost: https://codingcostlab.com/cursor-vs-claude-code-cost
+- Claude vs Cursor Cost: https://codingcostlab.com/claude-vs-cursor-cost
 - Codex vs Copilot Cost: https://codingcostlab.com/codex-vs-copilot-cost
 - AI Code Review Cost for Teams: https://codingcostlab.com/ai-code-review-cost-for-teams
 - AI Test Generation Cost for Teams: https://codingcostlab.com/ai-test-generation-cost-for-teams
