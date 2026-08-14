@@ -36,6 +36,8 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 - GitHub Copilot Credits Calculator: https://codingcostlab.com/github-copilot-credits-calculator
 - AI Coding Tools Pricing Guide: https://codingcostlab.com/ai-coding-tools-pricing
 - AI Coding Agent Tool Comparison: https://codingcostlab.com/ai-coding-agent-tool-comparison
+- Windsurf Pricing Calculator: https://codingcostlab.com/windsurf-pricing-calculator
+- OpenCode Cost Estimation: https://codingcostlab.com/opencode-cost-estimation
 
 ### Monthly Budgets
 
