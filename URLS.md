@@ -6,9 +6,9 @@ Sitemap: https://codingcostlab.com/sitemap.xml
 
 Calculator index: https://codingcostlab.com/calculators
 
-Generated: 2026-08-15
+Generated: 2026-08-16
 
-## URLs (74)
+## URLs (75)
 
 1. https://codingcostlab.com/
 2. https://codingcostlab.com/calculators
@@ -53,34 +53,35 @@ Generated: 2026-08-15
 41. https://codingcostlab.com/gemini-code-assist-cost-calculator
 42. https://codingcostlab.com/amazon-q-developer-cost-calculator
 43. https://codingcostlab.com/amazon-q-cost-calculator
-44. https://codingcostlab.com/sourcegraph-cody-cost-calculator
-45. https://codingcostlab.com/tabnine-cost-calculator
-46. https://codingcostlab.com/continue-dev-cost-calculator
-47. https://codingcostlab.com/ai-code-review-roi
-48. https://codingcostlab.com/ai-test-generation-roi
-49. https://codingcostlab.com/large-codebase-ai-cost
-50. https://codingcostlab.com/startup-ai-engineering-budget
-51. https://codingcostlab.com/claude-code-cost-for-startups
-52. https://codingcostlab.com/cursor-vs-copilot-cost
-53. https://codingcostlab.com/cursor-vs-claude-code-cost
-54. https://codingcostlab.com/claude-vs-cursor-cost
-55. https://codingcostlab.com/cline-vs-roo-code-cost
-56. https://codingcostlab.com/cline-vs-claude-code-cost
-57. https://codingcostlab.com/windsurf-vs-cursor-cost
-58. https://codingcostlab.com/codex-vs-copilot-cost
-59. https://codingcostlab.com/ai-code-review-cost-for-teams
-60. https://codingcostlab.com/ai-test-generation-cost-for-teams
-61. https://codingcostlab.com/ai-code-generation-cost-for-startups
-62. https://codingcostlab.com/ai-coding-agent-tool-comparison
-63. https://codingcostlab.com/ai-coding-agent-pricing-comparison
-64. https://codingcostlab.com/ai-coding-cost-estimator
-65. https://codingcostlab.com/vibe-coding-pricing-calculator
-66. https://codingcostlab.com/ai-token-cost-for-codebases
-67. https://codingcostlab.com/prompt-cache-savings-for-code
-68. https://codingcostlab.com/api-coding-agent-cost-calculator
-69. https://codingcostlab.com/local-vs-cloud-ai-coding-cost
-70. https://codingcostlab.com/ai-coding-cost-per-developer
-71. https://codingcostlab.com/ai-coding-cost-per-feature
-72. https://codingcostlab.com/ai-coding-cost-per-bugfix
-73. https://codingcostlab.com/ai-coding-cost-per-pull-request
-74. https://codingcostlab.com/ai-refactoring-cost-for-large-codebases
+44. https://codingcostlab.com/amazon-q-pricing-calculator
+45. https://codingcostlab.com/sourcegraph-cody-cost-calculator
+46. https://codingcostlab.com/tabnine-cost-calculator
+47. https://codingcostlab.com/continue-dev-cost-calculator
+48. https://codingcostlab.com/ai-code-review-roi
+49. https://codingcostlab.com/ai-test-generation-roi
+50. https://codingcostlab.com/large-codebase-ai-cost
+51. https://codingcostlab.com/startup-ai-engineering-budget
+52. https://codingcostlab.com/claude-code-cost-for-startups
+53. https://codingcostlab.com/cursor-vs-copilot-cost
+54. https://codingcostlab.com/cursor-vs-claude-code-cost
+55. https://codingcostlab.com/claude-vs-cursor-cost
+56. https://codingcostlab.com/cline-vs-roo-code-cost
+57. https://codingcostlab.com/cline-vs-claude-code-cost
+58. https://codingcostlab.com/windsurf-vs-cursor-cost
+59. https://codingcostlab.com/codex-vs-copilot-cost
+60. https://codingcostlab.com/ai-code-review-cost-for-teams
+61. https://codingcostlab.com/ai-test-generation-cost-for-teams
+62. https://codingcostlab.com/ai-code-generation-cost-for-startups
+63. https://codingcostlab.com/ai-coding-agent-tool-comparison
+64. https://codingcostlab.com/ai-coding-agent-pricing-comparison
+65. https://codingcostlab.com/ai-coding-cost-estimator
+66. https://codingcostlab.com/vibe-coding-pricing-calculator
+67. https://codingcostlab.com/ai-token-cost-for-codebases
+68. https://codingcostlab.com/prompt-cache-savings-for-code
+69. https://codingcostlab.com/api-coding-agent-cost-calculator
+70. https://codingcostlab.com/local-vs-cloud-ai-coding-cost
+71. https://codingcostlab.com/ai-coding-cost-per-developer
+72. https://codingcostlab.com/ai-coding-cost-per-feature
+73. https://codingcostlab.com/ai-coding-cost-per-bugfix
+74. https://codingcostlab.com/ai-coding-cost-per-pull-request
+75. https://codingcostlab.com/ai-refactoring-cost-for-large-codebases
