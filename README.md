@@ -40,6 +40,7 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 - OpenCode Cost Estimation: https://codingcostlab.com/opencode-cost-estimation
 - Vibe Coding Pricing Calculator: https://codingcostlab.com/vibe-coding-pricing-calculator
 - Amazon Q Cost Calculator: https://codingcostlab.com/amazon-q-cost-calculator
+- Amazon Q Pricing Calculator: https://codingcostlab.com/amazon-q-pricing-calculator
 - Bug Cost Calculator: https://codingcostlab.com/bug-cost-calculator
 
 ### Monthly Budgets
