@@ -46,7 +46,7 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 ### Monthly Budgets
 
 - Claude Code Monthly Cost: https://codingcostlab.com/claude-code-monthly-cost
-- Codex Monthly Cost: https://codingcostlab.com/codex-monthly-cost
+- Codex Monthly Cost Calculator: https://codingcostlab.com/codex-monthly-cost
 - AI Coding Team Budget: https://codingcostlab.com/ai-coding-team-budget
 - Software Engineering AI Budget: https://codingcostlab.com/software-engineering-ai-budget
 - Coding Agent Monthly Budget Planner: https://codingcostlab.com/coding-agent-monthly-budget
