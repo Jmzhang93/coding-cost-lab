@@ -6,7 +6,7 @@ Sitemap: https://codingcostlab.com/sitemap.xml
 
 Calculator index: https://codingcostlab.com/calculators
 
-Generated: 2026-08-16
+Generated: 2026-08-19
 
 ## URLs (75)
 
