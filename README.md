@@ -38,10 +38,10 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 - AI Coding Agent Tool Comparison: https://codingcostlab.com/ai-coding-agent-tool-comparison
 - Windsurf Pricing Calculator: https://codingcostlab.com/windsurf-pricing-calculator
 - OpenCode Cost Estimation: https://codingcostlab.com/opencode-cost-estimation
-- Vibe Coding Pricing Calculator: https://codingcostlab.com/vibe-coding-pricing-calculator
+- Vibe Coding Pricing Calculator for AI Prototypes: https://codingcostlab.com/vibe-coding-pricing-calculator
 - Amazon Q Cost Calculator: https://codingcostlab.com/amazon-q-cost-calculator
-- Amazon Q Pricing Calculator: https://codingcostlab.com/amazon-q-pricing-calculator
-- Bug Cost Calculator: https://codingcostlab.com/bug-cost-calculator
+- Amazon Q Pricing Calculator for Developer Teams: https://codingcostlab.com/amazon-q-pricing-calculator
+- Bug Cost Calculator and Bug Price Estimator: https://codingcostlab.com/bug-cost-calculator
 
 ### Monthly Budgets
 
