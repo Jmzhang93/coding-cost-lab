@@ -33,9 +33,12 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 - Claude Code Cost Calculator: https://codingcostlab.com/claude-code-cost-calculator
 - Codex Cost Calculator: https://codingcostlab.com/codex-cost-calculator
 - Cursor Cost Calculator: https://codingcostlab.com/cursor-cost-calculator
+- Cursor AI Agent Cost Calculator for Monthly Usage: https://codingcostlab.com/cursor-ai-agent-cost
 - GitHub Copilot Credits Calculator: https://codingcostlab.com/github-copilot-credits-calculator
 - AI Coding Tools Pricing Guide: https://codingcostlab.com/ai-coding-tools-pricing
 - AI Coding Agent Tool Comparison: https://codingcostlab.com/ai-coding-agent-tool-comparison
+- AI Coding Agent Cost Comparison by Tool and Workflow: https://codingcostlab.com/coding-agent-cost-comparison
+- Windsurf AI Cost Calculator for Pricing and Usage: https://codingcostlab.com/windsurf-ai-cost-calculator
 - Windsurf Pricing Calculator: https://codingcostlab.com/windsurf-pricing-calculator
 - OpenCode Cost Estimation: https://codingcostlab.com/opencode-cost-estimation
 - Vibe Coding Pricing Calculator for AI Prototypes: https://codingcostlab.com/vibe-coding-pricing-calculator
@@ -72,12 +75,12 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 ### Comparison and ROI
 
 - Claude Code vs Codex Cost: https://codingcostlab.com/claude-code-vs-codex-cost
-- Coding Agent Cost Comparison: https://codingcostlab.com/coding-agent-cost-comparison
+- AI Coding Agent Cost Comparison by Tool and Workflow: https://codingcostlab.com/coding-agent-cost-comparison
 - AI Coding ROI Calculator: https://codingcostlab.com/ai-coding-roi-calculator
 - AI Dev Tools Subscription Break-Even: https://codingcostlab.com/ai-devtools-subscription-break-even
 - AI Agent Token Burn Rate: https://codingcostlab.com/ai-agent-token-burn-rate
 - Copilot Agent Mode Cost: https://codingcostlab.com/copilot-agent-mode-cost
-- Cursor AI Agent Cost: https://codingcostlab.com/cursor-ai-agent-cost
+- Cursor AI Agent Cost Calculator for Monthly Usage: https://codingcostlab.com/cursor-ai-agent-cost
 
 ### Strategy and Unit Cost Pages
 
