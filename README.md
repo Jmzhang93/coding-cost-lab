@@ -34,6 +34,8 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 - Codex Cost Calculator: https://codingcostlab.com/codex-cost-calculator
 - Cursor Cost Calculator: https://codingcostlab.com/cursor-cost-calculator
 - Cursor AI Agent Cost Calculator for Monthly Usage: https://codingcostlab.com/cursor-ai-agent-cost
+- Cursor Agent Pricing Calculator for Cloud Agents: https://codingcostlab.com/cursor-agent-pricing-calculator
+- Cursor Usage Cost Calculator: https://codingcostlab.com/cursor-usage-cost-calculator
 - GitHub Copilot Credits Calculator: https://codingcostlab.com/github-copilot-credits-calculator
 - AI Coding Tools Pricing Guide: https://codingcostlab.com/ai-coding-tools-pricing
 - AI Coding Agent Tool Comparison: https://codingcostlab.com/ai-coding-agent-tool-comparison
@@ -45,6 +47,7 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 - Amazon Q Cost Calculator: https://codingcostlab.com/amazon-q-cost-calculator
 - Amazon Q Pricing Calculator for Developer Teams: https://codingcostlab.com/amazon-q-pricing-calculator
 - Bug Cost Calculator and Bug Price Estimator: https://codingcostlab.com/bug-cost-calculator
+- Codegen Pricing Calculator: https://codingcostlab.com/codegen-pricing-calculator
 
 ### Monthly Budgets
 
@@ -81,6 +84,8 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 - AI Agent Token Burn Rate: https://codingcostlab.com/ai-agent-token-burn-rate
 - Copilot Agent Mode Cost: https://codingcostlab.com/copilot-agent-mode-cost
 - Cursor AI Agent Cost Calculator for Monthly Usage: https://codingcostlab.com/cursor-ai-agent-cost
+- Cursor Agent Pricing Calculator for Cloud Agents: https://codingcostlab.com/cursor-agent-pricing-calculator
+- Cursor Usage Cost Calculator: https://codingcostlab.com/cursor-usage-cost-calculator
 
 ### Strategy and Unit Cost Pages
 
@@ -104,6 +109,7 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 - API Coding Agent Cost Calculator: https://codingcostlab.com/api-coding-agent-cost-calculator
 - Local vs Cloud AI Coding Cost: https://codingcostlab.com/local-vs-cloud-ai-coding-cost
 - AI Refactoring Cost for Large Codebases: https://codingcostlab.com/ai-refactoring-cost-for-large-codebases
+- Codegen Pricing Calculator: https://codingcostlab.com/codegen-pricing-calculator
 
 ## Notes
 
