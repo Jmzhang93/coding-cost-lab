@@ -1,6 +1,6 @@
 # Coding Cost Lab
 
-Free calculators for estimating AI coding agent costs before long coding sessions.
+Free calculators for estimating AI coding agent costs, pricing, and usage before long coding sessions.
 
 https://codingcostlab.com/
 
@@ -28,8 +28,8 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 
 ### Core
 
-- AI Coding Agent Cost Calculator: https://codingcostlab.com/
-- All AI Coding Cost Calculators: https://codingcostlab.com/calculators
+- Free AI Coding Cost Calculator: https://codingcostlab.com/
+- Free AI Coding Cost Calculators: https://codingcostlab.com/calculators
 - Claude Code Cost Calculator: https://codingcostlab.com/claude-code-cost-calculator
 - Codex Cost Calculator: https://codingcostlab.com/codex-cost-calculator
 - Cursor Cost Calculator: https://codingcostlab.com/cursor-cost-calculator
@@ -41,12 +41,12 @@ Coding Cost Lab gives developers and small teams a quick way to model:
 - AI Coding Agent Tool Comparison: https://codingcostlab.com/ai-coding-agent-tool-comparison
 - AI Coding Agent Cost Comparison by Tool and Workflow: https://codingcostlab.com/coding-agent-cost-comparison
 - Windsurf AI Cost Calculator for Pricing and Usage: https://codingcostlab.com/windsurf-ai-cost-calculator
-- Windsurf Pricing Calculator: https://codingcostlab.com/windsurf-pricing-calculator
+- Windsurf Pricing Calculator for Plans and Usage: https://codingcostlab.com/windsurf-pricing-calculator
 - OpenCode Cost Estimation: https://codingcostlab.com/opencode-cost-estimation
-- Vibe Coding Pricing Calculator for AI Prototypes: https://codingcostlab.com/vibe-coding-pricing-calculator
+- Vibe Coding Pricing Calculator: https://codingcostlab.com/vibe-coding-pricing-calculator
 - Amazon Q Cost Calculator: https://codingcostlab.com/amazon-q-cost-calculator
-- Amazon Q Pricing Calculator for Developer Teams: https://codingcostlab.com/amazon-q-pricing-calculator
-- Bug Cost Calculator and Bug Price Estimator: https://codingcostlab.com/bug-cost-calculator
+- Amazon Q Pricing Calculator: https://codingcostlab.com/amazon-q-pricing-calculator
+- Bug Cost Calculator: https://codingcostlab.com/bug-cost-calculator
 - Codegen Pricing Calculator: https://codingcostlab.com/codegen-pricing-calculator
 
 ### Monthly Budgets
